@@ -101,4 +101,8 @@ class Index
        $a xor $b;
        echo $c;
     }
+    public function addtwo()
+    {
+        echo '随便加一个';
+    }
 }
